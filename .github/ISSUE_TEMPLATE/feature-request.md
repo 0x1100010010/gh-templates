@@ -8,9 +8,11 @@ assignees: ''
 ---
 
 ## Feature description
-`Description here`
+`Detailed description here`
 
 ## Expected output
+`description`
+
 - [ ] Feature 1
 - [ ] Feature 2
 - [ ] Feature 3
