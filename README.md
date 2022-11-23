@@ -1,2 +1,2 @@
 # gh-templates
-gh-templates tests
+gh-templates tests.
